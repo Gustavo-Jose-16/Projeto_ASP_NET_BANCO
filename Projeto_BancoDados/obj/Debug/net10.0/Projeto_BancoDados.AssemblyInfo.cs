@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto_BancoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8c184ee6c0b19ae999c3553844e2c98ae1878a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9f2fb821a65fa5b405c8b0c01f2c0e55681eee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto_BancoDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto_BancoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

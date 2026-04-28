@@ -13,9 +13,9 @@ namespace Projeto_BancoDados.Models
 
         [Display(Name = "Cargo")]
         [Required(ErrorMessage = "O Campo cargo é obrigatorio")]
-        public string cargo { get; set; }
+        public string Cargo { get; set; }
         [Display(Name = "Data de Nascimento")]
         [Required(ErrorMessage = "O Campo data nascimeto é obrigatorio")]
-        public DateTime dataNasc { get; set; }
+        public DateTime DataNasc { get; set; }
     }
 }
